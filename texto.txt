@@ -1,0 +1,20 @@
+Perceptual decisions arise from the activity of
+neurons distributed across brain circuits. But, decoding
+the mechanisms behind this cognitive operation
+across brain circuits has long posed a difficult
+problem.Werecorded the neuronal activity of diverse
+cortical areas, while monkeys performed a vibrotactile
+discrimination task. We find that the encoding of
+the stimuli during the stimulus periods, working
+memory, and comparison periods is widely distributed
+across cortical areas. Notably, during the
+comparison and postponed decision report periods
+the activity of frontal brain circuits encode both the
+result of the sensory evaluation that corresponds to
+the monkey’s possible choices and past information
+on which the decision is based. These results suggest
+that frontal lobe circuits are more engaged in
+the readout of sensory information from working
+memory, when it is required to be compared with
+other sensory inputs, than simply engaged in motor
+responses during this task.
